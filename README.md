@@ -1,4 +1,4 @@
-# tts-buy-ckan-multitenant
+# tts-buy-code-gov-support
 
 The General Services Administration (GSA) Federal Acquisition Service (FAS) Technology Transformation Services (TTS) is seeking providers of various services in support of the code.gov program management office.
 
